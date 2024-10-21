@@ -16,7 +16,7 @@ https://github.com/rogerjdeangelis/utl-example-of-recursion-in-sqllite-creating-
 
 /**************************************************************************************************************************/
 /*                     |                                                         |                                        */
-/*         INPUT       |                        PROCESS                          |                                        */
+/*         INPUT       |                        PROCESS                          |            OUTPUT                      */
 /*                     |                                                         |                                        */
 /*                     |                                                         |                                        */
 /*                     |                                                         |                parent            path  */
